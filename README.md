@@ -30,3 +30,17 @@ Built a cybersecurity home lab using Wazuh SIEM to monitor and analyze security 
 
 ## Outcome
 Successfully built and operated a SIEM lab capable of detecting and analyzing real-time security events.
+
+## Screenshots
+
+### Dashboard (Agent Status)
+![Dashboard](dashboard.png)
+
+### Linux Logs (Wazuh Server Activity)
+![Linux Logs](Linuxlogs.png)
+
+### Windows Event – User Creation (Detection)
+![Windows Event](windows-event-user-created.png)
+
+### Log Analysis (Discover)
+![Logs](discoverlogs.png)
