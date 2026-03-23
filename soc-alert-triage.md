@@ -41,4 +41,4 @@ The activity was intentionally generated in a controlled lab environment using r
 - Implement alert thresholds for brute force detection
 
 ## Evidence
-![Brute Force Alerts](bruteforce.png) 
+![SOC Alert Evidence](soc-alert.png)
