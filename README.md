@@ -60,7 +60,7 @@ Wazuh SIEM successfully detected:
 - Account lockout event
 
 ### Evidence
-![Brute Force Alerts](security log brute force.png)
+![Brute Force Alerts](bruteforce.png)
 
 ### MITRE ATT&CK Mapping
 - T1110 – Brute Force
