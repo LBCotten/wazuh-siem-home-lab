@@ -1,7 +1,7 @@
 # Wazuh SIEM Home Lab
 
 ## Overview
-Built a cybersecurity home lab using Wazuh SIEM to monitor and analyze security events from a Windows endpoint.
+Built a cybersecurity home lab using Wazuh SIEM to monitor and analyze security events from a Windows endpoint. 
 
 ## Environment
 - Ubuntu Server (VirtualBox)
