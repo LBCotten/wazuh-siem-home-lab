@@ -1,6 +1,7 @@
 # Wazuh SIEM Home Lab
 Hands-on SOC lab using Wazuh to simulate and analyze real-world security events including brute force attacks, alert triage and log analysis.
-![Wazuh Dashboard] (Wazuh Dashboard)
+## Dashboard View
+![Wazuh Dashboard](wazuh dashboard.png)
 
 ## Overview
 Built a cybersecurity home lab using Wazuh SIEM to monitor and analyze security events from a Windows endpoint. 
