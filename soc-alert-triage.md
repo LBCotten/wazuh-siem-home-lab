@@ -43,4 +43,4 @@ The activity was intentionally generated in a controlled lab environment using r
 ## Evidence
 Wazuh SIEM alert details showing failed login attempt investigation:
 ![SOC Alert Evidence](soc-alert.png)
-The alert indiccates multiple failed login attempts consistent with brute force activity originating from the monitored endpoint.
+The alert indicates multiple failed login attempts consistent with brute force activity originating from the monitored endpoint.
