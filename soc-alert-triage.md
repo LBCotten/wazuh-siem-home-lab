@@ -41,4 +41,5 @@ The activity was intentionally generated in a controlled lab environment using r
 - Implement alert thresholds for brute force detection
 
 ## Evidence
+Wazuh SIEM alert details showing failed login attempt investigation:
 ![SOC Alert Evidence](soc-alert.png)
