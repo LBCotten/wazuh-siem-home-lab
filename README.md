@@ -44,3 +44,27 @@ Successfully built and operated a SIEM lab capable of detecting and analyzing re
 
 ### Log Analysis (Discover)
 ![Logs](discoverlogs.png)
+
+##  Brute Force Attack Detection
+
+### Overview
+Simulated a brute force attack by generating repeated failed login attempts on a Windows 11 endpoint.
+
+### Attack Simulation
+Used the `runas` command with incorrect credentials multiple times, triggering authentication failures and account lockout.
+
+### Detection in Wazuh
+Wazuh SIEM successfully detected:
+- Multiple failed login attempts
+- Rapid authentication failures
+- Account lockout event
+
+### Evidence
+![Brute Force Alerts](security log brute force.png)
+
+### MITRE ATT&CK Mapping
+- T1110 – Brute Force
+- T1078 – Valid Accounts
+
+### Outcome
+Demonstrated ability to detect brute force attack patterns using SIEM analysis and event correlation.
